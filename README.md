@@ -6,3 +6,6 @@ Source code of the paper ''From HEAR to GEAR: Generative Evaluation of Audio Rep
 - "display.ipynb" takes care of plotting, it generate the same plots as those appear in our paper
 
 We recommend you to start with "FROM HEAR to GEAR.ipynb" for a quick check of the results, and then use the .npy files generated to continue ploting with file "display.ipynb".
+
+Additionally, if you want no computation, please go to this google drive link for all the .npy files and plots as well:
+[From HEAR to GEAR](https://drive.google.com/drive/folders/1Xm9gsJhgsvztvdGjaSpAZo-FyDjIdNQB?usp=sharing)
